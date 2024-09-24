@@ -1,6 +1,8 @@
 # FindPlace
 Project to play around with MapKit.
 
+You can browse pre-saved locations or search other ones.
+
 Works on iPhone and iPad.
 
 <img src="https://github.com/user-attachments/assets/f8e7441c-318f-4361-af30-bdb402da7e21" width="200" height="400" />
