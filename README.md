@@ -1,4 +1,4 @@
-# FindPlace
+# FindPlace (SwiftUI)
 Project to play around with MapKit.
 
 You can browse pre-saved locations or search other ones.
